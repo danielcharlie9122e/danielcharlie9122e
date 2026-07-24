@@ -101,7 +101,7 @@ My personal portfolio website where I showcase my projects, skills, and experien
 ## 📫 Find Me
 
 <p align="center">
-  <a href="[https://danielcs.vercel.app](https://portofolio-daniel-smoky.vercel.app/)">
+  <a href="(https://portofolio-daniel-smoky.vercel.app/)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:danielces1120@gmail.com">
