@@ -1,64 +1,116 @@
-# Hi, I'm Daniel 👋
+<h1 align="center">Hey, I'm Daniel 👋</h1>
 
-🎓 Software Engineering Student at Politeknik Negeri Batam  
-💻 Full-Stack Developer | Mobile Developer | UI/UX Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Student+Developer;Full+Stack+Developer;I+build+things+with+code;Currently+working+on+MoneyMate;Sometimes+it+works+on+the+first+try" alt="Typing SVG" />
+</p>
 
-I am a Software Engineering student who enjoys building web and mobile applications. 
-Currently, I focus on developing useful applications using modern technologies.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=danielcharlie9122e&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-- 🎓 D4 Teknologi Rekayasa Perangkat Lunak student
+I'm Daniel, a Software Engineering student who enjoys building things with code.
+
+I like turning ideas into real applications, experimenting with new technologies, and occasionally fixing bugs that I definitely did not create.
+
+- 🎓 D4 Software Engineering Student at Politeknik Negeri Batam
 - 💻 Interested in Web Development and Mobile Development
-- 🔧 Currently working on MoneyMate
-- 📚 Currently learning Next.js and Laravel
-- 🎨 Interested in UI/UX Design
-- 📍 Batam, Indonesia
+- 🚀 Currently working on **MoneyMate**
+- 🌱 Currently learning **Next.js**
+- 🎨 Interested in UI/UX and building better user experiences
+- 📍 Based in Batam, Indonesia
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Things I Work With
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### Frameworks & Tools
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,php,java,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,tailwind,bootstrap" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,figma,vscode,androidstudio" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 💰 MoneyMate
-Personal financial management application with financial monitoring, expense visualization, OCR bill scanning, and location-based expense prediction.
 
-**Tech Stack:** Laravel, MySQL, JavaScript, Chart.js
+A personal financial management application designed to help users manage, monitor, and understand their finances more easily.
+
+**Features:**
+
+- 📊 Financial dashboard
+- 💸 Expense and income tracking
+- 📸 OCR bill scanning
+- 📍 Location-based expense prediction
+- 📈 Financial visualization
+- 🧠 Financial Health Score
+- 🔊 Text-to-Speech accessibility
+
+**Tech Stack:**
+
+`Laravel` `MySQL` `JavaScript` `Chart.js`
 
 ---
 
 ### 🌐 Personal Portfolio
-My personal portfolio website showcasing my projects, skills, and experience.
 
-**Tech Stack:** React, Vite, Tailwind CSS
+My personal portfolio website where I showcase my projects, skills, and experiences.
+
+**Tech Stack:**
+
+`React` `Vite` `Tailwind CSS`
+
+🔗 [Visit My Portfolio](https://danielcs.vercel.app/)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcharlie9122e&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielcharlie9122e&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcharlie9122e&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 📈 Contribution Activity
 
-- 🌐 Portfolio: https://danielcs.vercel.app
-- 💼 LinkedIn: [Your LinkedIn]
-- 📧 Email: [Your Email]
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielcharlie9122e&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📫 Find Me
+
+<p align="center">
+  <a href="https://danielcs.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building things, learning things, breaking things, and fixing them again.</i>
+</p>
