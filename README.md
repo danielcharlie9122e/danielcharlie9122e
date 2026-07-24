@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Daniel 👋</h1>
+<h1 align="center">Hey</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Student+Developer;Full+Stack+Developer;I+build+things+with+code;Currently+working+on+MoneyMate;Sometimes+it+works+on+the+first+try" alt="Typing SVG" />
