@@ -1,4 +1,4 @@
-# Hi, I'm Daniel 👋
+**# Hi, I'm Daniel 👋
 
 🎓 **Software Engineering Student at Politeknik Negeri Batam**  
 💻 **Full-Stack Developer | Mobile Developer | UI/UX Enthusiast**
@@ -66,3 +66,4 @@ My personal portfolio website showcasing my projects, skills, and experience.
 - 🌐 **Portfolio:** [portofolio-daniel-smoky.vercel.app](https://portofolio-daniel-smoky.vercel.app/)
 - 💼 **LinkedIn:** [Daniel Charlie Samuel Siburian](https://www.linkedin.com/in/daniel-charlie-samuel-siburian-1a9a162a3/)
 - 📧 **Email:** [danielces1120@gmail.com](mailto:danielces1120@gmail.com)
+**
