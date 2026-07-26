@@ -55,11 +55,9 @@ My personal portfolio website showcasing my projects, skills, and experience.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielcharlie9122e&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniel's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcharlie9122e&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielcharlie9122e&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcharlie9122e&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
