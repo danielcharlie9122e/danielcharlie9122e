@@ -27,7 +27,7 @@ I am a Software Engineering student who enjoys building web and mobile applicati
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Tools
@@ -70,12 +70,12 @@ A personal portfolio website showcasing my projects, skills, and experience.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielcharlie9122e&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcharlie9122e&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danielcharlie9122e&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcharlie9122e&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=danielcharlie9122e&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=danielcharlie9122e&theme=tokyonight&hide_border=true&date_format=j%20M%5BY%5D" />
 </p>
 
 ---
@@ -83,7 +83,7 @@ A personal portfolio website showcasing my projects, skills, and experience.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielcharlie9122e&theme=tokyo-night&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielcharlie9122e&theme=react-dark&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
